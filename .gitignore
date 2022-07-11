@@ -1,0 +1,29 @@
+# Gradle Files
+.gradle
+.gradle/
+/build
+import-summary.txt
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+*.iml
+/.idea/
+
+# Default dirs. for capture with Android studio
+/captures
+
+# Windows thumbnail db
+.DS_Store
+
+# Native source files
+.externalNativeBuild
+.cxx
+
+# Application files
+*.apk
+*.aar
+
+# TvApp Plugin generated
+.tvappPlugin
